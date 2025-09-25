@@ -22,6 +22,50 @@ const CUSTOMER_SITES = {
     fy: {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
         name: '茅台資源',
+    },
+    jz: {
+        api: 'https://jszyapi.com/api.php/provide/vod',
+        name: '極速資源',
+    },
+    db: {
+        api: 'https://dbzy.tv/api.php/provide/vod',
+        name: '豆瓣資源',
+    },
+    mz: {
+        api: 'https://mozhuazy.com/api.php/provide/vod',
+        name: '魔爪資源',
+    },
+    md: {
+        api: 'https://www.mdzyapi.com/api.php/provide/vod',
+        name: '魔都資源',
+    },
+    zd: {
+        api: 'https://api.zuidapi.com/api.php/provide/vod',
+        name: '最大資源',
+    },
+    sk: {
+        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
+        name: '櫻花資源',
+    },
+    wj: {
+        api: 'https://api.wujinapi.me/api.php/provide/vod',
+        name: '無盡資源',
+    },
+    ik: {
+        api: 'https://ikunzyapi.com/api.php/provide/vod',
+        name: 'iKun資源',
+    },
+    lz: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '量子資源',
+    },
+    xmm: {
+        api: 'https://zy.xmm.hk/api.php/provide/vod',
+        name: '小貓咪資源',
+    },
+    ww: {
+        api: 'https://wwzy.tv/api.php/provide/vod',
+        name: '旺旺短劇',
     }
 };
 

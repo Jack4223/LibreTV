@@ -1,5 +1,5 @@
 const CUSTOMER_SITES = {
-    qiqi: {
+    bf: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风资源',
     }

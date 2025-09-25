@@ -1,13 +1,13 @@
 const CUSTOMER_SITES = {
-    qiqi: {
+    ix: {
         api: 'https://cj.lziapi.com/api.php/provide/vod',
         name: '影視工廠',
     }
-    qiqi: {
+    bf: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴風資源',
     }
-    qiqi: {
+    ff: {
         api: 'http://api.ffzyapi.com/api.php/provide/vod/from/feifan/at/xml',
         name: '非凡影視',
     }

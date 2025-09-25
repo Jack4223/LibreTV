@@ -15,9 +15,9 @@ const CUSTOMER_SITES = {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360資源',
     },
-    fy: {
-        api: 'https://fengyunapi.com/api.php/provide/vod',
-        name: '風雲資源',
+    wl: {
+        api: 'https://wolongzyw.com/api.php/provide/vod',
+        name: '臥龍資源',
     },
     fy: {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
